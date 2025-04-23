@@ -1,0 +1,26 @@
+{
+    "project_name": "Cryptocurrency Time Series Forecasting",
+    "description": "Extracts real-time and historical cryptocurrency data from API sources like CoinGecko, Binance, or Yahoo Finance and applies ARIMA, LSTM, and Prophet models for forecasting.",
+    "author": "Your Name",
+    "version": "1.0.0",
+    "dependencies": [
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "yfinance",
+        "statsmodels",
+        "tensorflow",
+        "prophet"
+    ],
+    "models_used": [
+        "ARIMA",
+        "LSTM",
+        "Prophet"
+    ],
+    "data_sources": [
+        "CoinGecko",
+        "Binance",
+        "Yahoo Finance"
+    ],
+    "license": "MIT"
+}
