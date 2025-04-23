@@ -1,0 +1,15 @@
+{
+  "project_name": "Crypto Time Series Analysis",
+  "description": "Helps traders, investors, and analysts make informed decisions through trend insights, risk assessments, and price predictions.",
+  "main_file": "crypto_analysis.py",
+  "dependencies": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "statsmodels",
+    "yfinance"
+  ],
+  "author": "Syed Furqan Ali",
+  "version": "1.0",
+  "license": "MIT"
+}
