@@ -11,10 +11,13 @@ This project focuses on leveraging data science and machine learning techniques 
 
 KEY FEATURES:
 
-1> #Cryptocurrency Data Collection: Extracts real-time and historical data from api source coingecko.
-2> #Volatility & Sentiment Analysis: Analyzes price fluctuations and integrates NLP based sentiment analysis from crypto related news and social media
-3> #Real-world Applications: Helps traders, 
-investors, and analysts make informed decisions by providing trend insights, risk assessments, and price predictions. 
+1> # Cryptocurrency Data Collection: Extracts real-time and historical data from api source coingecko.
+
+
+2> # Volatility & Sentiment Analysis: Analyzes price fluctuations and integrates NLP based sentiment analysis from crypto related news and social media
+
+3> # Real-world Applications: Helps traders, investors, and analysts make informed decisions by providing trend insights, risk assessments, and price predictions. 
+
 
 Data Privacy: Ensures secure handling and storage of emotional data, maintaining employee confidentiality.
 
